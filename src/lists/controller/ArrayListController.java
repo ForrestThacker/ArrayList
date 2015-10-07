@@ -17,6 +17,7 @@ public class ArrayListController
 	public void start()
 	{
 		firstWords.add("ragglefraggle");
+		firstWords.add("SWEGSWEGSWEGSWEGSWEGSWEG");
 		displayList();
 	}
 	
